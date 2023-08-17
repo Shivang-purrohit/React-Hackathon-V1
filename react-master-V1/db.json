@@ -1,0 +1,34 @@
+{
+  "reg": [
+    {
+      "name": "abv",
+      "email": "ab@gmail.com",
+      "password": "456123",
+      "confirmPassword": "456123",
+      "id": 1
+    },
+    {
+      "email": "ab@gmail.com",
+      "password": "456123",
+      "id": 2
+    },
+    {
+      "email": "ab@gmail.com",
+      "password": "456123",
+      "id": 3
+    },
+    {
+      "name": "devendra",
+      "email": "bihariboy@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 4
+    },
+    {
+      "email": "bihariboy@gmail.com",
+      "password": "12345",
+      "id": 5
+    }
+  ],
+  "fav": []
+}
